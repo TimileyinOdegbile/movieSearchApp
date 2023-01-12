@@ -1,0 +1,17 @@
+[33mcommit d9f70d03c57aebf6d71a658f39081a65a312cad5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Timileyin Odegbile <odegbiletimileyin11@gmail.com>
+Date:   Tue Dec 6 14:04:21 2022 +0100
+
+    Avoiding duplication of Config
+
+[33mcommit cec92002a79b64f825ab4a9a7ca78baedf6b8ff0[m
+Author: Timileyin Odegbile <odegbiletimileyin11@gmail.com>
+Date:   Tue Dec 6 13:33:40 2022 +0100
+
+    Updating the HTML structure
+
+[33mcommit eecc385788a7e6fb7ef1e2e7801a0c46c837f00b[m
+Author: Timileyin Odegbile <odegbiletimileyin11@gmail.com>
+Date:   Tue Dec 6 02:54:15 2022 +0100
+
+    Initial commit for the movieSearch project
